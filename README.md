@@ -46,7 +46,7 @@ quiz-app/
 ## ▶️ How to Run
 
 1. Download or clone the repository
-2. Open `index.html` in any browser
+2. Open `quiz.html` in any browser
 3. Start the quiz
 
 ---
