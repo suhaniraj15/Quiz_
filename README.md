@@ -26,10 +26,10 @@ This project is beginner-friendly and focuses on learning JavaScript basics.
 
 ## 📁 Project Structure
 
-quiz-app/
-│── index.html  
-│── style.css  
-│── script.js  
+Quiz_/
+│── quiz.html  
+│── quiz.css  
+│── quiz.js  
 
 ---
 
